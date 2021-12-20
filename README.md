@@ -21,6 +21,11 @@ The goal of this mod is to maintain the original look and installation procedure
 
 Install as per Voron Aseembly Manual, you will still need the original **_mini12864_spacer.stl_**
 
+## Notes
+My LCD module PCB came with the wrong type of encoder (it have longer shaft).
+As per advised by Mellow Team the current revision will not have the same problem anymore.
+
+
 ## Photos
-!(/assets/images/FRONT.jpg)
-!(/assets/images/REAR.jpg)
+![Assembled Front](/assets/images/FRONT.jpeg)
+![Assembled Rear](/assets/images/REAR.jpeg)
