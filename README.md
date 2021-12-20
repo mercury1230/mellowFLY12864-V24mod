@@ -17,15 +17,19 @@ The goal of this mod is to maintain the original look and installation procedure
 3. Relocate the encoder and reset button cutout as the position of this mini12864 is very different
 
 
-## Installation
+## Printing & Installation
+
+Print using standard Voron parts print settings.
+**_please note that I did not orient the STLs for printing position, you need to rotate it._**
 
 Install as per Voron Aseembly Manual, you will still need the original **_mini12864_spacer.stl_**
+
 
 ## Notes
 My LCD module PCB came with the wrong type of encoder (it have longer shaft).
 As per advised by Mellow Team the current revision will not have the same problem anymore.
 
 
-## Photos
+## Images
 ![Assembled Front](/assets/images/FRONT.jpeg)
 ![Assembled Rear](/assets/images/REAR.jpeg)
